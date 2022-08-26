@@ -1,7 +1,7 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="Hi.gif" width="30"></h2>
 <p align="center">
-  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;.NET+Core%20|%20JavaScript%20|%20Java%20|%20Python%20|%20Flutter;Always%20learning%20new%20things&center=true&width=600&height=50"></a>
+  <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET+Core%20|%20JavaScript%20|%20Java%20|%20Python%20|%20Flutter;Always%20learning%20new%20things&center=true&width=600&height=50"></a>
 </p>
 <hr/>
 <a href="www.linkedin.com/in/mehmet-karagöz" target="_blank">
