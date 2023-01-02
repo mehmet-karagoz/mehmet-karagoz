@@ -88,4 +88,4 @@ Ask me anything **[here](https://github.com/mehmet-karagoz/mehmet-karagoz/issues
 
 
 <br/>
-**Happy Coding!** 😊
+Happy Coding! 😊
