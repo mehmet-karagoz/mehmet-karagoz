@@ -23,7 +23,7 @@
 
 <br />
 
-I'm a Full Stack Developer with 1+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
+I'm a Full Stack Developer with 1.5+ years of hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
 
 I love learning new techs and using new tools.
