@@ -1,8 +1,14 @@
 <div align="center">
 <h2> Hi There, Welcome to my Github profile! <img src="Hi.gif" width="30"></h2>
+
+
+
 <p align="center">
   <a href="https://github.com/jaypavasiya"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;.NET+Core%20|%20JavaScript%20|%20Java%20|%20Python%20|%20Flutter;Always%20learning%20new%20things&center=true&width=600&height=50"></a>
 </p>
+
+<a href="https://www.buymeacoffee.com/mehmetkaragozdev"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=mehmetkaragozdev&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
 <hr/>
 <a href="www.linkedin.com/in/mehmet-karagöz" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
